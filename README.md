@@ -15,7 +15,7 @@ I bridge the gap between **business problems and data-driven solutions** with ha
 ---
 
 ### 🎓 Education & Certifications  
-- 🎓 **Master’s in Data Science**, Deakin University, Australia (2023)  
+- 🎓 **Master’s in Data Science**, Deakin University, Australia (2024)  
 - 🎓 **Post-Grad Diploma in AI & ML**, Great Lakes & UT Austin McCombs (2022)  
 - 🎓 **Bachelor of Technology in Electronics & Communication**, India  
 - 📚 **IBM Data Analyst Professional Certificate** *(Sept 2025)*  
