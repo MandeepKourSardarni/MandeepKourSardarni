@@ -36,11 +36,25 @@ Regression, Classification, Clustering | NLP | Anomaly Detection | Predictive Mo
 Trello | Asana | Google Workspace | MS Office Suite  
 
 ---
+ 
+### 🌟 Featured Projects  
 
-### 🌟 Featured Project  
-- 🧪 [COVID-19 Detection Using Deep Learning](#)  
-   > Built & deployed a VGG-based CNN model with 97% accuracy on chest X-ray images.  
+- 🧪 **COVID-19 Detection Using Deep Learning**  
+   > Built & deployed a VGG-based CNN model with **97% accuracy** on chest X-ray images.  
    Presented at *IEMTRONICS International Conference (2021)*.  
+
+- 🎲 **Tambola Game**  
+   > A custom-built digital **Tambola (Housie)** game with:  
+   > - 🎟️ **Auto Ticket Generator** for quick and fair ticket creation  
+   > - 🔢 Automated number calling with fun prompts  
+   > - 📱 Easy access via **clickable link** or by **scanning a QR code**  
+   > Designed for engaging play with raffles, winners tracking, and smooth audience interaction.  
+
+- 🎬 **Emoji Movie Challenge**  
+   > A web-based guessing game where players identify movies represented through emoji sequences.  
+   Features **timer, hints, 3D-styled buttons, and confetti celebrations** for a fun user experience.  
+
+- Many more.. wil upload soon
 
 ---
 
