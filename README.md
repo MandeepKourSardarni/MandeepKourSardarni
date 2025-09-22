@@ -33,7 +33,7 @@ SQL | Python | Excel | Tableau | Power BI | IBM Cognos | Jupyter | Matplotlib | 
 Regression, Classification, Clustering | NLP | Anomaly Detection | Predictive Modeling | Deep Learning (CNN, VGG, ResNet, Inception)  
 
 **Other Tools:**  
-Trello | Asana | Google Workspace | MS Office Suite  
+Trello | Google Workspace | MS Office Suite  
 
 ---
  
@@ -54,7 +54,7 @@ Trello | Asana | Google Workspace | MS Office Suite
    > A web-based guessing game where players identify movies represented through emoji sequences.  
    Features **timer, hints, 3D-styled buttons, and confetti celebrations** for a fun user experience.  
 
-- Many more.. wil upload soon
+- Many more.....
 
 ---
 
