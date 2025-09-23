@@ -1,7 +1,10 @@
-# 👋 Hi, I’m Mandeep  
+<h1 align="center">👋 Hi, I’m Mandeep</h1>
 
-A detail-oriented **Data Analyst & Aspiring Data Scientist** based in Ontario, Canada 🍁.  
-I bridge the gap between **business problems and data-driven solutions** with hands-on experience in data governance, visualization, and machine learning.  
+<p align="center">
+A detail-oriented <b>Data Analyst & Aspiring Data Scientist</b> based in Ontario, Canada 🍁.<br>
+I bridge the gap between <b>business problems</b> and <b>data-driven solutions</b> with hands-on experience in <b>data governance, visualization, and machine learning</b>.
+</p>
+ 
 
 ---
 
