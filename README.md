@@ -48,11 +48,11 @@ Trello | Google Workspace | MS Office Suite
  
 ### 🌟 Featured Projects  
 
-- 🧪 **COVID-19 Detection Using Deep Learning**  
+- 🩻 **COVID-19 Detection Using Deep Learning**  
    > Built & deployed a VGG-based CNN model with **97% accuracy** on chest X-ray images.  
    Presented at *IEMTRONICS International Conference (2021)*.  
 
-- 🎲 **Tambola Game**  
+- ☸️ **Tambola Game**  
    > A custom-built digital **Tambola (Housie)** game with:  
    > - 🎟️ **Auto Ticket Generator** for quick and fair ticket creation  
    > - 🔢 Automated number calling with fun prompts  
