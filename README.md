@@ -5,6 +5,12 @@ A detail-oriented <b>Data Analyst & Aspiring Data Scientist</b> based in Ontario
 I bridge the gap between <b>business problems</b> and <b>data-driven solutions</b> with hands-on experience in <b>data governance, visualization, and machine learning</b>.
 </p>
  
+---
+
+<p align="center">
+  🌐 <b>Portfolio:</b> <a href="https://mandeepkoursardarni.github.io/" target="_blank">mandeepkoursardarni.github.io</a>
+</p>
+
 
 ---
 
