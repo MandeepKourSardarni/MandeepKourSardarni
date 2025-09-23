@@ -48,12 +48,25 @@ Trello | Google Workspace | MS Office Suite
    > - 🎟️ **Auto Ticket Generator** for quick and fair ticket creation  
    > - 🔢 Automated number calling with fun prompts  
    > - 📱 Easy access via **clickable link** or by **scanning a QR code**  
-   > Designed for engaging play with raffles, winners tracking, and smooth audience interaction.  
+   > - Designed for engaging play with raffles, winners tracking, and smooth audience interaction
+   > - ⚙️ HTML • CSS • JavaScript
 
-- 🎬 **Emoji Movie Challenge**  
-   > A web-based guessing game where players identify movies represented through emoji sequences.  
-   Features **timer, hints, 3D-styled buttons, and confetti celebrations** for a fun user experience.  
+ - 🎬 **Emoji Movie Challenge**
+  > A web-based guessing game where players identify movies from emoji sequences
+  > **Features**
+  > - ⏱️ Timer + progressive hints  
+  > - 🧠 Streaks, scoring, and difficulty levels  
+  > - 🔘 3D-styled buttons + keyboard support  
+  > - 🎉 Confetti celebrations on correct answers
+  > - ⚙️ HTML • CSS • JavaScript  
 
+- 🧾 **PDF Payslip Redactor (PyMuPDF + Tesseract)**  
+  > 🔒 Wipes out sensitive info from payslips in bulk!  
+  > 📑 Text PDFs + 🖼️ Scans (via OCR)  
+  > 🎯 Excel-controlled, auto SIN check, full-row blackout, clickable links.  
+  > ⚙️ Python • PyMuPDF • Tesseract
+  >
+  > 
 - Many more.....
 
 ---
@@ -66,11 +79,7 @@ Trello | Google Workspace | MS Office Suite
 ---
 
 <!--
-**MandeepKourSardarni/MandeepKourSardarni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+**MandeepKourSardarni/MandeepKourSardarni**
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
