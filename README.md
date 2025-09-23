@@ -2,7 +2,7 @@
 
 <p align="center">
 A detail-oriented <b>Data Analyst & Aspiring Data Scientist</b> based in Ontario, Canada 🍁.<br>
-I bridge the gap between <b>business problems</b> and <b>data-driven solutions</b> with hands-on experience in <b>data governance, visualization, and machine learning</b>.
+I bridge the gap between <b>business problems</b> and <b>data-driven solutions</b> with hands-on experience in <b>business intelligence, data wrangling, visualization, & machine learning</b>.
 </p>
  
 ---
