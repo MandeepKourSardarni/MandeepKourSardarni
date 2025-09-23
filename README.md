@@ -52,19 +52,19 @@ Trello | Google Workspace | MS Office Suite
    > - ⚙️ HTML • CSS • JavaScript
 
  - 🎬 **Emoji Movie Challenge**
-  > A web-based guessing game where players identify movies from emoji sequences
-  > **Features**
-  > - ⏱️ Timer + progressive hints  
-  > - 🧠 Streaks, scoring, and difficulty levels  
-  > - 🔘 3D-styled buttons + keyboard support  
-  > - 🎉 Confetti celebrations on correct answers
-  > - ⚙️ HTML • CSS • JavaScript  
+   > A web-based guessing game where players identify movies from emoji sequences
+   > **Features**
+   > - ⏱️ Timer + progressive hints  
+   > - 🧠 Streaks, scoring, and difficulty levels  
+   > - 🔘 3D-styled buttons + keyboard support  
+   > - 🎉 Confetti celebrations on correct answers
+   > - ⚙️ HTML • CSS • JavaScript  
 
 - 🧾 **PDF Payslip Redactor (PyMuPDF + Tesseract)**  
-  > 🔒 Wipes out sensitive info from payslips in bulk!  
-  > 📑 Text PDFs + 🖼️ Scans (via OCR)  
-  > 🎯 Excel-controlled, auto SIN check, full-row blackout, clickable links.  
-  > ⚙️ Python • PyMuPDF • Tesseract
+   > 🔒 Wipes out sensitive info from payslips in bulk!  
+   > 📑 Text PDFs + 🖼️ Scans (via OCR)  
+   > 🎯 Excel-controlled, auto SIN check, full-row blackout, clickable links.  
+   > ⚙️ Python • PyMuPDF • Tesseract
   >
   > 
 - Many more.....
