@@ -24,12 +24,12 @@ I bridge the gap between <b>business problems</b> and <b>data-driven solutions</
 ---
 
 ### 🎓 Education & Certifications  
-- 🎓 **Master’s in Data Science**, Deakin University, Australia (2024)  
-- 🎓 **Post-Grad Diploma in AI & ML**, Great Lakes & UT Austin McCombs (2022)  
-- 🎓 **Bachelor of Technology in Electronics & Communication**, India  
+- 🎓 **Master’s in Data Science**, Deakin University, Australia (2024)
 - 📚 **IBM Data Analyst Professional Certificate** *(Sept 2025)*  
 - 📚 **Microsoft Azure AI Fundamentals (AI-900)** *(Jul 2025)*  
 - 📚 **NPower Canada – Junior Data Analyst Program** *(Sep 2025)*  
+- 🎓 **Post-Grad Diploma in AI & ML**, Great Lakes & UT Austin McCombs (2022)  
+- 🎓 **Bachelor of Technology in Electronics & Communication**, India  
 - 📚 **Generative AI for Business with MS Azure & OpenAI** *(Apr 2024)*  
 
 ---
