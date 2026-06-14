@@ -11,8 +11,7 @@
 </p>
 
 <p align="center">📍 Ontario, Canada 🍁 &nbsp;·&nbsp;
-<p align="center"> 🌐 <a href="https://mandeepkoursardarni.github.io/">Portfolio</a>  <a href="https://www.linkedin.com/in/mandeep-kour-sardarni/">LinkedIn</a></p>
-<p align="center"><a href="https://www.linkedin.com/in/mandeep-kour-sardarni/">LinkedIn</a></p>
+<p align="center"> 🌐 <a href="https://mandeepkoursardarni.github.io/">Portfolio</a>       <a href="https://www.linkedin.com/in/mandeep-kour-sardarni/">LinkedIn</a></p>
 
 ---
 
