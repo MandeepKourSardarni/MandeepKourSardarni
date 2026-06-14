@@ -10,8 +10,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&center=true&vCenter=true&width=560&lines=Build+the+model%2C+then+challenge+it.;Model+risk+%26+validation+%E2%80%94+SR+11-7+%2F+OSFI+E-23;Turning+data+into+decisions+leaders+can+trust." alt="tagline" />
 </p>
 
-<p align="center">📍 Ontario, Canada 🍁 &nbsp;·&nbsp; 🌐 <a href="https://mandeepkoursardarni.github.io/">Portfolio</a></p>
-<p align="center"> 🌐 <a href="https://mandeepkoursardarni.github.io/">Portfolio</a>
+<p align="center">📍 Ontario, Canada 🍁 &nbsp;·&nbsp;
+<p align="center"> 🌐 <a href="https://mandeepkoursardarni.github.io/">Portfolio</a>  <a href="https://www.linkedin.com/in/mandeep-kour-sardarni/">LinkedIn</a></p>
 <p align="center"><a href="https://www.linkedin.com/in/mandeep-kour-sardarni/">LinkedIn</a></p>
 
 ---
