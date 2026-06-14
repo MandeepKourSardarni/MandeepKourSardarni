@@ -103,7 +103,7 @@ work across business intelligence, data wrangling, visualization, and machine le
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MandeepKourSardarni&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandeepKourSardarni&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 </p>
 
