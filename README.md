@@ -48,7 +48,21 @@ work across business intelligence, data wrangling, visualization, and machine le
 > Mapped to **SR 11-7** and Canada's **OSFI E-23**.
 > `Python · scikit-learn · model validation`
 
-🏦 **[Banking Fraud Detection &amp; Surveillance](https://github.com/MandeepKourSardarni/BANKING_PROJECTS)**
+
+🧾 **[PDF Payslip Redactor](https://github.com/MandeepKourSardarni/Payslip_Redactor)**
+> Batch-redacts sensitive information from payslip PDFs (text + scans via OCR), controlled
+> from a single Excel/CSV — automatic SIN checks and full-row masking, names and dates preserved.
+> `Python · PyMuPDF · Tesseract`
+
+
+📊 **[IBM Cognos Job-Market Dashboard](https://github.com/MandeepKourSardarni/IBM-Cognos)**
+> An interactive job-market dashboard built in IBM Cognos on the Kaggle Naukri.com dataset —
+> visualizing hiring trends, in-demand tech skills, and demographics, with Python/SQL surfacing
+> as the top skills.
+> `IBM Cognos · data visualization`
+
+
+🏦 **[Banking Fraud Detection &amp; Surveillance](https://github.com/MandeepKourSardarni/BANKING_PROJECTS)** *(in progress)*
 > Fraud detection on banking transactions (PaySim): a Logistic Regression baseline evaluated
 > the way a reviewer would — **recall, PR-AUC, and the precision/recall threshold trade-off**,
 > not just accuracy — plus an unsupervised **Isolation Forest** cross-check for unseen patterns.
@@ -59,15 +73,12 @@ work across business intelligence, data wrangling, visualization, and machine le
 > and how it's evaluated — written to be readable, not just runnable.
 > `Python · scikit-learn`
 
-🧾 **[PDF Payslip Redactor](https://github.com/MandeepKourSardarni/Payslip_Redactor)**
-> Batch-redacts sensitive information from payslip PDFs (text + scans via OCR), controlled
-> from a single Excel/CSV — automatic SIN checks and full-row masking, names and dates preserved.
-> `Python · PyMuPDF · Tesseract`
+🎲 **[Tambola (Housie)](https://github.com/MandeepKourSardarni/Tambola)** · 🎬 **[Emoji Charades](https://github.com/MandeepKourSardarni/Emoji-movies-charades)**
+> Two projector-friendly web games — a Tambola spinner with auto ticket generator, music, and
+> Excel export, and an emoji movie-guessing game with timers, streaks, and confetti.
+> `HTML · CSS · JavaScript`
 
-<sub>More on my profile: education dashboards (<a href="https://github.com/MandeepKourSardarni/GlobalEduDashboard">GlobalEduDashboard</a>,
-<a href="https://github.com/MandeepKourSardarni/IBM-Cognos">IBM Cognos job-market dashboard</a>) and a few fun web apps
-(<a href="https://github.com/MandeepKourSardarni/Tambola">Tambola</a>,
-<a href="https://github.com/MandeepKourSardarni/Emoji-movies-charades">Emoji Charades</a>).</sub>
+
 
 ---
 
