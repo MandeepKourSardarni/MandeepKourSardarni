@@ -1,5 +1,5 @@
 
-<h1 align="center">Mandeep Kour Sardarni</h1>
+<h1 align="center">Mandeep</h1>
 
 <p align="center">
   <b>Data Analyst &amp; Aspiring Data Scientist</b><br>
